@@ -32,6 +32,6 @@ Certaines branches auront un état de début et de fin. Elles sont marquées par
 
 Retrouvez mes autres formations sur [LinkedIn Learning][lil-URL-trainer].
 
-[lil-course-url]: https://www.linkedin.com/learning/python-defis-code-2885083-cs
+[lil-course-url]: https://www.linkedin.com/learning/python-defis-code
 [lil-thumbnail-url]: https://cdn.lynda.com/course/2896241/2896241-1637338967910-16x9.jpg
 [lil-URL-trainer]: https://www.linkedin.com/learning/instructors/sylvain-labasse
