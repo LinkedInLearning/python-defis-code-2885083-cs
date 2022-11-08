@@ -8,7 +8,7 @@ Ce cours propose une douzaine de défis qui abordent des bonnes pratiques, des a
 
 Dans l'univers des Monty Python, vous consoliderez votre maîtrise du langage et stimulerez vos neurones pour réussir vos tests d'embauche ou reprendre vos projets avec des approches nouvelles et créatives.
 
-![Python : Défis de code][lil-thumbnail-url] 
+![2885083_fr_FR_TN](https://user-images.githubusercontent.com/61017085/200607772-b551ce8d-4cad-4546-b0f8-c12c5c53b206.jpg)
 
 _Voir le fichier readme de la branche principale pour des informations et instructions actualisées._
 
