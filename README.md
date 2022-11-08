@@ -26,6 +26,10 @@ Ce dépôt possède une ou deux branches par leçon (vidéo de cours). Vous pouv
 Les branches sont structurées pour correspondre aux leçons (vidéos de cours). La convention de nommage est CHAPITRE#-VIDEO#. Par exemple, la branche nommée 02-03 correspond au second chapitre et troisième vidéo du chapitre. 
 Certaines branches auront un état de début et de fin. Elles sont marquées par un b pour "beginning" (début) et e pour "end" (fin). La branche b contient les fichiers tels qu'ils sont au début de la leçon. La branche e contient les fichiers qui ont changé.
 
+## Codespaces
+
+Ce cours est intégré à GitHub Codespaces, un environnement de développement instantané « dans le nuage » qui offre toutes les fonctionnalités de votre IDE préféré sans nécessiter de configuration sur une machine locale. Avec Codespaces, vous pouvez vous exercer à partir de n'importe quelle machine, à tout moment, tout en utilisant un outil que vous êtes susceptible de rencontrer sur votre lieu de travail. Consultez la vidéo "Utilisation de Codespaces GitHub dans le cadre de ce cours" pour savoir comment démarrer.
+
 ## Formateur
 
 **Sylvain Labasse** 
